@@ -1,0 +1,4 @@
+Creates a 128x128 bitmap picture with random RBG values and saves as image.bmp
+Random values are retrieved from random.org
+
+Dependencies: pillow
